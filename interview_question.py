@@ -9,14 +9,14 @@ data ="""1. Muhammad Ali | muhammad_ali@gmail.com
 
 expected_outcome = [
     {
+        'no': 1,
         'name': 'Muhammad Ali', 
         'email': 'muhammad_ali@gmail.com'
     }, 
-    {'name': 'Muthu', 'email': 'muthu123@hotmail.com'}, 
-    {'name': 'Tan Ah Hock', 'email': 'ah_hock666@gmail.com'}, 
-    {'name': 'Peter Garden', 'email': 'peter.g@outlook.com'}, 
-    {'name': 'Paul Steve', 'email': 'paul.steve92@gmail.com'}, 
-    {'name': 'Mary Ho', 'email': 'marry_ho99@gmail.com'}, 
-    {'name': 'Jane Tan', 'email': 'jane.tan123@gmail.com'}, 
-    {'name': '', 'email': ''}
+    {'no': 2,'name': 'Muthu', 'email': 'muthu123@hotmail.com'}, 
+    {'no': 3,'name': 'Tan Ah Hock', 'email': 'ah_hock666@gmail.com'}, 
+    {'no': 4,'name': 'Peter Garden', 'email': 'peter.g@outlook.com'}, 
+    {'no': 5,'name': 'Paul Steve', 'email': 'paul.steve92@gmail.com'}, 
+    {'no': 6,'name': 'Mary Ho', 'email': 'marry_ho99@gmail.com'}, 
+    {'no': 7,'name': 'Jane Tan', 'email': 'jane.tan123@gmail.com'}
     ]
